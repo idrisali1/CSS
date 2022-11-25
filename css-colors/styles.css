@@ -1,0 +1,19 @@
+.one {
+    color: violet;
+}
+
+.two {
+    color: #FFA500;
+}
+
+.three {
+    color: rgb(244, 5, 5);
+}
+
+.four {
+    color: hsl(119, 50%, 50%);
+}
+
+#header {
+    color: rgb(5, 116, 244)
+}
